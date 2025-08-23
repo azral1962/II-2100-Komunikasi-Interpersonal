@@ -1,0 +1,313 @@
+
+
+# **RANCANGAN SILABUS & RPS MINGGU 1**
+
+**Mata Kuliah:** Komunikasi Interpersonal dan Publik
+**Kode Mata Kuliah:** II2100
+**SKS:** 2
+**Penyelenggara:** Sistem dan Teknologi Informasi / STEI
+**Semester:** [Isi sesuai kebutuhan]
+**Dosen Pengampu:** [Isi nama dosen]
+
+## **Deskripsi Singkat Mata Kuliah:**
+Mata kuliah ini memperkenalkan mahasiswa pada konsep-konsep dasar komunikasi interpersonal dan publik, meliputi komunikasi diri, proses mendengar, penggunaan bahasa verbal dan nonverbal, serta strategi pengelolaan konflik. Selain itu, mata kuliah ini juga membekali mahasiswa dengan kemampuan untuk mendemonstrasikan keterampilan komunikasi interpersonal yang efektif, menjelaskan konsep dan mendemonstrasikan keterampilan berbicara di depan umum, serta memahami peran teknologi dalam komunikasi [Berko et al., 2].
+
+## **Capaian Pembelajaran Mata Kuliah (CPMK):**
+Setelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:
+1.  **Menjelaskan konsep-konsep komunikasi interpersonal**.
+2.  **Mendemonstrasikan komunikasi interpersonal** secara efektif.
+3.  **Menjelaskan konsep-konsep berbicara di depan publik**.
+4.  **Mendemonstrasikan kemampuan berbicara di depan publik** dengan percaya diri.
+
+## **Metode Pembelajaran:**
+*   Ceramah
+*   Diskusi
+*   Tugas individu dan kelompok
+*   Presentasi
+
+## **Modalitas Pembelajaran:**
+*   Visual sinkron (kuliah tatap muka atau daring langsung)
+*   Asinkron (video rekaman, materi bacaan, forum diskusi online)
+
+## **Metode Penilaian:**
+*   Ujian Tengah Semester (UTS)
+*   Ujian Akhir Semester (UAS)
+*   Tugas (meliputi partisipasi diskusi, latihan, presentasi, esai)
+
+---
+
+# **RPS MINGGU 1: Fondasi Komunikasi Interpersonal - Mengapa Ini Penting?**
+
+**CPMK yang Dituju:** Menjelaskan konsep-konsep komunikasi interpersonal.
+
+**Bahan Kajian:** Konsep komunikasi interpersonal.
+
+# Tujuan
+**Tujuan Pembelajaran Khusus Minggu Ini:**
+*   Mahasiswa mampu mendefinisikan komunikasi dan komunikasi interpersonal.
+*   Mahasiswa mampu menjelaskan model-model komunikasi (linear, interaksional, transaksional) dan komponen-komponennya.
+*   Mahasiswa mampu mengidentifikasi karakteristik komunikasi.
+*   Mahasiswa memahami pentingnya kompetensi komunikasi dalam kehidupan sehari-hari.
+
+**Metode Pembelajaran:** Ceramah interaktif, diskusi, refleksi diri awal.
+
+**Tugas:** Refleksi diri awal mengenai kompetensi komunikasi (berdasarkan kuesioner singkat atau pertanyaan panduan).
+
+---
+
+# **CATATAN PERKULIAHAN (LECTURE NOTES)**
+
+**Halaman 1 dari 4**
+**Topik:** Fondasi Komunikasi Interpersonal: Mengapa Ini Penting?
+
+**I. Pembukaan (10 menit)**
+*   **Pendahuluan Inspiratif:** Mulai dengan pertanyaan yang memprovokasi pemikiran: "Apa yang akan terjadi jika kita tidak bisa berkomunikasi?" atau "Seberapa penting komunikasi dalam hidup Anda?".
+    *   Libatkan mahasiswa dengan pengalaman personal mereka tentang komunikasi yang berhasil atau gagal.
+    *   Tekankan relevansi: Komunikasi interpersonal memengaruhi kesehatan, kebahagiaan, dan kualitas hidup secara keseluruhan. Ini bukan sekadar keterampilan "soft skill" tambahan, melainkan inti dari keberadaan sosial dan psikologis kita.
+*   **Pengenalan Mata Kuliah:** Jelaskan cakupan mata kuliah (Komunikasi Interpersonal dan Publik) dan apa yang akan dipelajari selama semester ini.
+*   **Capaian Pembelajaran Minggu Ini:** Sorot CPMK minggu pertama: memahami konsep dasar komunikasi interpersonal.
+
+**II. Komunikasi Didefinisikan (20 menit)**
+*   **Definisi Umum:** Komunikasi adalah proses kompleks dan fundamental untuk menciptakan pemahaman bersama (shared meaning).
+*   **Model Komunikasi:**
+    *   **Model Linear:** Satu arah. Sumber (Source) mengirim pesan (Message) melalui saluran (Channel) kepada penerima (Receiver).
+        *   **Komponen:** Partisipan (pengirim & penerima), pesan (verbal & nonverbal), saluran (medium), konteks (lingkungan), tujuan.
+        *   **Konsep Noise (Gangguan):** Elemen apa pun yang mengganggu pesan.
+            *   *Environmental Noise:* Suara bising, lalu lintas.
+            *   *Physiological-Impairment Noise:* Masalah pendengaran/penglihatan.
+            *   *Semantic Noise:* Perbedaan makna kata/jargon.
+            *   *Syntactical Noise:* Masalah struktur kalimat.
+            *   *Organizational Noise:* Kesulitan menyusun pikiran secara sekuensial.
+            *   *Cultural Noise:* Perbedaan budaya dalam menafsirkan pesan.
+            *   *Psychological Noise:* Gangguan emosi, prasangka.
+            *   Diskusikan cara mengatasi noise.
+    *   **Model Interaksional:** Menambahkan umpan balik (Feedback) dari penerima ke pengirim, menjadikan proses lebih interaktif. Namun, masih terlihat sebagai proses bolak-balik.
+    *   **Model Transaksional:** Komunikasi sebagai proses simultan di mana partisipan secara bersamaan mengirim dan menerima pesan, menciptakan makna bersama melalui interaksi berkelanjutan. Menekankan bahwa konteks dan hubungan memengaruhi makna.
+
+**Halaman 2 dari 4**
+**Topik:** Fondasi Komunikasi Interpersonal: Mengapa Ini Penting?
+
+**III. Karakteristik Komunikasi (20 menit)**
+*   **Komunikasi adalah Proses:** Tidak statis, terus-menerus, dinamis.
+*   **Komunikasi Menggunakan Simbol:** Kata-kata (verbal) dan isyarat (nonverbal) adalah representasi dari ide atau objek. Bahasa bersifat simbolis, diatur oleh aturan, dan subjektif. Contoh: Kata "kucing" bukan kucing itu sendiri.
+*   **Komunikasi Kontekstual:** Makna komunikasi sangat dipengaruhi oleh konteks fisik, sosial-psikologis, dan budaya. Apa yang mudah dikomunikasikan dalam satu konteks bisa jadi sulit di konteks lain.
+*   **Komunikasi Bisa Disengaja atau Tidak Disengaja:**
+    *   Sebagian besar komunikasi kita disengaja (misalnya, melamar pekerjaan).
+    *   Namun, kita juga sering berkomunikasi tanpa bermaksud demikian (misalnya, bahasa tubuh saat mengantuk).
+    *   Perdebatan: Apakah pesan yang tidak disengaja termasuk komunikasi? Pandangan tengah: perilaku yang tidak disengaja tetap memiliki nilai komunikatif karena menyampaikan makna. Penting untuk memperhatikan komunikasi nonverbal secara efektif.
+
+**IV. Kompetensi Komunikasi Interpersonal (25 menit)**
+*   **Apa itu Kompetensi Komunikasi?** Kemampuan untuk berkomunikasi secara efektif dan sesuai dalam berbagai situasi. Ini melibatkan pengetahuan dan keterampilan yang dapat dipelajari dan ditingkatkan.
+*   **Pentingnya Kompetensi:**
+    *   Meningkatkan potensi menjadi komunikator yang kompeten.
+    *   Memungkinkan interaksi yang lebih positif, bahkan dalam situasi yang berpotensi konflik.
+    *   Membantu membangun dan memelihara hubungan.
+    *   Memengaruhi kesuksesan di lingkungan kerja dan akademik.
+*   **Refleksi Diri & Sikap "Saya Bisa Berubah":**
+    *   Perkenalkan gagasan bahwa kompetensi komunikasi dapat ditingkatkan melalui latihan dan rencana yang spesifik.
+    *   Gunakan kuesioner refleksi diri awal (seperti Activity 1.1 atau Check-Up di sumber Berko) untuk membantu mahasiswa mengidentifikasi area kekuatan dan kelemahan mereka.
+    *   Tekankan bahwa tujuan mata kuliah ini adalah untuk mengembangkan pengetahuan dan keterampilan untuk meningkatkan kompetensi sebagai komunikator.
+
+**V. Kesimpulan & Penutup (15 menit)**
+*   **Rangkuman:** Ulangi poin-poin penting tentang definisi, model, karakteristik, dan pentingnya kompetensi komunikasi.
+*   **Penugasan (jika ada):** Jelaskan tugas refleksi diri awal.
+*   **Tanya Jawab & Diskusi:** Buka sesi tanya jawab. Dorong mahasiswa untuk berbagi pemikiran awal mereka tentang mengapa komunikasi penting bagi mereka (misalnya, dalam pertemanan, keluarga, atau karier).
+
+---
+
+### **NASKAH PRESENTASI (PRESENTATION SCRIPT)**
+
+**Slide 1: Halaman Pembuka**
+**(Dosen masuk, menyapa mahasiswa dengan antusiasme.)**
+"Selamat pagi/siang semuanya! Selamat datang di mata kuliah Komunikasi Interpersonal dan Publik. Saya [Nama Dosen Anda], dan saya sangat antusias untuk memulai perjalanan kita selama satu semester ini."
+
+**Slide 2: Mengapa Komunikasi Penting untuk Anda?**
+"Sebelum kita masuk ke definisi dan teori, saya ingin memulai dengan sebuah pertanyaan: **Mengapa komunikasi ini penting bagi Anda?** Coba pikirkan sejenak. Jika saya meminta Anda untuk memilih satu kemampuan yang paling tidak ingin Anda hilangkan — penglihatan, pendengaran, atau kemampuan berbahasa — mana yang akan Anda pilih? Sebagian besar mungkin akan memilih penglihatan atau pendengaran, tetapi jarang yang menyebut bahasa atau kemampuan berkomunikasi."
+
+"Namun, bayangkan hidup tanpa kemampuan untuk mengungkapkan pikiran, perasaan, atau membangun hubungan. Komunikasi, baik interpersonal maupun publik, adalah jantung dari keberadaan sosial dan psikologis kita. Ia memengaruhi **kesehatan, kebahagiaan, dan kualitas hidup** Anda secara keseluruhan."
+
+"Pernahkah Anda mengalami kesalahpahaman yang kocak atau bahkan merugikan karena komunikasi yang buruk? Atau sebaliknya, keberhasilan besar yang tercipta berkat komunikasi yang luar biasa? Itulah yang akan kita selami di mata kuliah ini."
+
+**Slide 3: Apa Itu Komunikasi?**
+"Jadi, apa sebenarnya komunikasi itu? Secara sederhana, komunikasi adalah **proses kompleks dan fundamental** di mana kita menciptakan **pemahaman bersama**."
+"Ini bukan hanya tentang berbicara atau mendengar, tetapi tentang bagaimana kita berbagi makna, ide, dan perasaan."
+
+**Slide 4: Model-Model Komunikasi (Visual Sederhana)**
+"Untuk memahami proses ini, mari kita lihat beberapa model dasar. Awalnya, kita punya **Model Linear**. Bayangkan seperti ini: **Sumber** (si pembicara) mengirimkan **Pesan** melalui **Saluran** (misalnya, udara, telepon) kepada **Penerima** (si pendengar)."
+"Ini model paling dasar, seperti mengirim SMS tanpa balasan."
+
+**Slide 5: Noise (Gangguan) dalam Komunikasi**
+"Namun, hidup tidak sesederhana itu. Ada banyak hal yang bisa mengganggu pesan kita, yang kita sebut **Noise** atau gangguan."
+"Pernah mencoba berbicara di konser musik yang bising? Itu **Environmental Noise**. Atau ketika Anda tidak fokus karena lapar atau sakit kepala? Itu **Physiological Noise**."
+"Bagaimana dengan ketika Anda menggunakan istilah teknis ke teman yang bukan bidangnya, dan dia tidak mengerti? Itu **Semantic Noise**. Atau ketika orang dari budaya berbeda menafsirkan isyarat tubuh Anda dengan cara yang berbeda? Itu **Cultural Noise**."
+"Bahkan ketika Anda sedang galau, pikiran Anda sendiri bisa menjadi **Psychological Noise** yang menghalangi Anda untuk mendengarkan. Kita akan belajar cara mengatasi ini!"
+
+**Slide 6: Model Interaksional & Transaksional**
+"Kemudian, ada **Model Interaksional**, yang menambahkan elemen **Umpan Balik**. Jadi, setelah Anda menerima pesan, Anda memberikan respons. Ini seperti SMS yang dibalas."
+"Tapi yang paling dekat dengan realitas adalah **Model Transaksional**. Di sini, kita tidak hanya bergantian berbicara dan mendengar, tetapi kita **secara simultan** menjadi pengirim dan penerima. Kita terus-menerus menyesuaikan pesan kita berdasarkan respons yang kita terima, baik verbal maupun nonverbal, dan menciptakan makna bersama dalam sebuah konteks."
+"Pikirkan percakapan intens dengan teman baik. Anda saling bertukar ide dan emosi secara cepat, membangun makna bersama."
+
+**Slide 7: Karakteristik Komunikasi**
+"Komunikasi memiliki beberapa karakteristik penting:"
+*   "Ini adalah **Proses** yang berkelanjutan, bukan peristiwa tunggal."
+*   "Kita menggunakan **Simbol**, baik kata-kata maupun nonverbal, untuk mewakili ide."
+*   "Ia selalu **Kontekstual**, artinya makna sangat tergantung pada situasi dan lingkungan."
+*   "Dan menariknya, komunikasi bisa **Disengaja maupun Tidak Disengaja**."
+    *   "Seringkali kita mengirim pesan tanpa menyadarinya. Gerakan tubuh, ekspresi wajah, bahkan cara kita diam bisa menyampaikan makna."
+    *   "Ini berarti, **'Anda tidak bisa tidak berkomunikasi.'**"
+
+**Slide 8: Apakah Anda Seorang Komunikator yang Kompeten?**
+"Jadi, setelah mendengar semua ini, mungkin Anda bertanya: **'Apakah saya seorang komunikator yang kompeten?'**"
+"Kompetensi komunikasi adalah kemampuan untuk mencapai tujuan komunikasi Anda secara efektif dan sesuai dalam suatu situasi. Kabar baiknya: **Ini adalah keterampilan yang bisa dipelajari dan ditingkatkan!**"
+"Bahkan jika Anda merasa sudah cukup baik, selalu ada ruang untuk perbaikan. Dan jika Anda merasa 'kurang,' jangan khawatir! Tujuan mata kuliah ini adalah membantu Anda mengembangkan pengetahuan dan keterampilan yang dibutuhkan."
+
+**Slide 9: Perjalanan Anda Menuju Kompetensi Komunikasi**
+"Di akhir bab ini, ada beberapa aktivitas refleksi diri yang akan membantu Anda mengidentifikasi kekuatan dan area yang perlu ditingkatkan dalam komunikasi Anda."
+"Ingat prinsip 'I can change' dari Roy Berko: **'Hanya Anda yang dapat memotivasi diri sendiri untuk belajar dan menerapkan konsep-konsep untuk meningkatkan tingkat kompetensi komunikasi Anda.'**"
+"Mari kita jadikan semester ini sebagai perjalanan untuk menemukan dan mengasah potensi komunikasi terbaik dalam diri Anda."
+
+**Slide 10: Rangkuman & Diskusi**
+"Sebagai rangkuman, hari ini kita telah membahas apa itu komunikasi, model-modelnya, karakteristiknya, dan mengapa menjadi komunikator yang kompeten sangat penting."
+"Ada pertanyaan atau pemikiran yang ingin Anda bagikan?"
+**(Buka sesi diskusi, berikan instruksi tugas refleksi diri awal.)**
+"Terima kasih, sampai jumpa minggu depan!"
+
+---
+
+### **SLIDE PRESENTASI (QUARTO FORMAT)**
+
+**(Simulasi layout quarto, setiap 'Halaman' adalah satu slide)**
+
+---
+
+## **KOMUNIKASI INTERPERSONAL DAN PUBLIK**
+**(II2100 - 2 SKS)**
+
+**Dosen:** [Nama Dosen]
+**Semester:** [Ganjil/Genap 20XX/20XY]
+
+*Selamat Datang di Dunia Komunikasi!*
+
+---
+
+## **MENGAPA KOMUNIKASI PENTING UNTUK ANDA?**
+
+*   **Hidup Anda Terkait Erat:**
+    *   Kesehatan
+    *   Kebahagiaan
+    *   Kualitas Hubungan
+*   **Pengaruh Besar dalam Keseharian.**
+*   **"Anda tidak bisa tidak berkomunikasi."**
+
+*(Gambar: Ilustrasi orang berinteraksi, ekspresi wajah beragam, latar belakang kantor/keluarga)*
+
+---
+
+## **APA ITU KOMUNIKASI?**
+
+**Definisi:**
+*   **Proses kompleks dan fundamental**.
+*   Tujuan: Menciptakan **pemahaman bersama (shared meaning)**.
+
+**Komponen Utama:**
+*   **Sumber** (Pengirim)
+*   **Pesan** (Verbal & Nonverbal)
+*   **Saluran** (Medium)
+*   **Penerima** (Pendengar)
+*   **Konteks** (Situasi)
+*   **Tujuan**
+
+---
+
+## **MODEL-MODEL KOMUNIKASI**
+
+**1. Model Linear:**
+*   **Satu Arah:** Sumber -> Pesan -> Penerima
+*   Mirip: Mengirim pesan teks tanpa balasan.
+
+**2. Model Interaksional:**
+*   **Dua Arah:** Menambahkan **Umpan Balik**
+*   Mirip: Berbalas pesan teks.
+
+**3. Model Transaksional:**
+*   **Simultan & Berkelanjutan:** Peserta bersamaan mengirim dan menerima
+*   Menciptakan **makna bersama** dalam konteks
+*   Mirip: Percakapan tatap muka yang dinamis.
+
+*(Gambar: Ilustrasi grafis sederhana dari ketiga model, mungkin dengan panah dan lingkaran)*
+
+---
+
+## **"NOISE" (GANGGUAN) DALAM KOMUNIKASI**
+
+**Apa pun yang menghalangi penerimaan pesan.**
+*   **Lingkungan:** Suara bising, panas
+*   **Fisiologis:** Sakit kepala, kantuk
+*   **Semantik:** Jargon, perbedaan makna kata
+*   **Sintaksis:** Struktur kalimat yang kacau
+*   **Organisasi:** Kesulitan menyusun pikiran
+*   **Budaya:** Perbedaan interpretasi lintas budaya
+*   **Psikologis:** Prasangka, emosi
+
+---
+
+## **KARAKTERISTIK KOMUNIKASI**
+
+*   **Proses Dinamis:** Tidak statis, terus berkembang.
+*   **Simbologis:** Menggunakan kata dan isyarat sebagai simbol.
+*   **Kontekstual:** Dipengaruhi lingkungan, budaya, hubungan.
+*   **Disengaja & Tidak Disengaja:** Pesan bisa disampaikan tanpa niat.
+
+---
+
+
+## **APAKAH ANDA KOMUNIKATOR YANG KOMPETEN?**
+
+**Kompetensi Komunikasi:**
+*   Kemampuan berkomunikasi **efektif & sesuai**.
+*   Memengaruhi **hubungan, karier, & kebahagiaan**.
+
+**Kabar Baik:**
+*   Ini adalah **KETERAMPILAN** yang dapat dipelajari & ditingkatkan!
+*   **Jangan berkecil hati** jika skor awal rendah; ini adalah proses belajar.
+
+*(Gambar: Tanda tanya besar, di bawahnya mungkin ilustrasi seseorang sedang berpikir)*
+
+---
+
+
+
+## **PERJALANAN ANDA MENUJU KOMPETENSI KOMUNIKASI**
+
+**Sikap "Saya Bisa Berubah":**
+*   **Identifikasi** kekuatan & kelemahan Anda.
+*   **Motivasi diri** untuk belajar & menerapkan konsep.
+*   **Rencanakan** peningkatan spesifik.
+
+**"Hanya Anda yang dapat memotivasi diri sendiri untuk belajar dan menerapkan konsep-konsep untuk meningkatkan tingkat kompetensi komunikasi Anda."**
+
+*(Gambar: Ilustrasi jalur perjalanan atau seseorang yang mendaki tangga dengan tulisan "I Can Change")*
+
+---
+
+
+## **CAPAIAN PEMBELAJARAN MINGGU INI**
+
+Setelah sesi ini, Anda diharapkan mampu:
+*   Mendefinisikan komunikasi & komunikasi interpersonal.
+*   Menjelaskan model-model komunikasi dan komponennya.
+*   Mengidentifikasi karakteristik komunikasi.
+*   Memahami pentingnya kompetensi komunikasi.
+
+---
+
+
+## **DISKUSI & LANGKAH SELANJUTNYA**
+
+*   **Tanya Jawab:** Ada pertanyaan tentang materi hari ini?
+*   **Tugas Refleksi Diri:** (Jelaskan tugas dan tenggat waktunya).
+*   **Sampai jumpa minggu depan!**
+
+---
+
+Semoga rancangan ini dapat membantu membuat perkuliahan minggu pertama Anda menarik dan inspiratif, serta memenuhi format yang diminta!
